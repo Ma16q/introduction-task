@@ -2,12 +2,12 @@ Hi there! 👋
 
 I'm Mohamed, a Computer Science student (Level 7) with a strong interest in web development and software engineering.  
 I’m currently learning front-end technologies, and I enjoy experimenting with new tools and frameworks to improve my skills.
+#This a task in Programming club as an introductory 
 
 I’m passionate about problem-solving, clean code, and building user-friendly interfaces.  
 I enjoy experimenting with small projects and exploring how different design elements work together to create a good user experience.
-In my free time, I practice and try to improve my programming and problem-solving skills, aiming to become more confident in both mobile and web development.  
+In my free time, I practice and try to improve my programming and problem-solving skills, aiming to become more confident in both mobile and web development.  💪
 
-My future goal is to become a full-stack developer and work on meaningful projects that make a positive imسpact.  
+My future goal is to become a full-stack developer and work on meaningful projects that make a positive impact.  
 This repository is part of my learning journey, showcasing my progress as I grow as a developer.
-
 Thanks for visiting! 🚀
